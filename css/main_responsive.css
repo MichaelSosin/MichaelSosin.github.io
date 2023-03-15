@@ -282,6 +282,9 @@ http://themeforest.net/licenses
 		bottom: 16px;
 		top: auto;
 	}
+	.page-home .logo-container{
+		top: 275px;
+	}
 }
 
 /* Screen small than 360px */
@@ -299,6 +302,9 @@ http://themeforest.net/licenses
 		min-height: 64px;
 	}
 	
+	.page-home .logo-container{
+		top: 300px;
+	}
 	
 	.contact .social-links{
 		display: none;
@@ -347,7 +353,7 @@ http://themeforest.net/licenses
 	}
 	
 	.page-home .logo-container{
-		top: 40px;
+		top: 300px;
 	}
 	.page-home .logo-container img.h-logo{
 		height: 80px;
@@ -417,7 +423,7 @@ http://themeforest.net/licenses
 		width: 50%;
 	}
 	.page-home .logo-container{
-		top: 40px;
+		top: 300px;
 	}
 	.page-home .logo-container img.h-logo{
 		height: 80px;
